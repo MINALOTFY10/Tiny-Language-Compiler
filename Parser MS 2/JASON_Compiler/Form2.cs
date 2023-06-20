@@ -16,7 +16,6 @@ namespace JASON_Compiler
         {
             InitializeComponent();
         }
-
         private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
